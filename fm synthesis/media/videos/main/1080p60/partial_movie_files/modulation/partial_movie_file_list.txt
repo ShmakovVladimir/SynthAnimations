@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/3977891868_123554531_1882523497.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_3805418260_575407222.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_1733944848_4034418878.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_1733944848_2655353810.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_603925006_2226030122.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_1191017236_3646688232.mp4'
+file 'file:/home/vladimir/Всякое/fm synthesis/media/videos/main/1080p60/partial_movie_files/modulation/2852726489_1733944848_2533381494.mp4'
